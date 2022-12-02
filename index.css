@@ -1,0 +1,248 @@
+
+.main{
+    display: flex;
+}
+.aside-control{
+    padding-top: 45px;
+    padding-left: 30px;
+    position:fixed ;
+    height: 108%;
+    border-right: 1px solid rgba(219,219,219,1);
+    width: 15%;
+
+    
+}
+.logo-control{
+    padding-bottom: 50px;
+}
+.home-control{
+    margin-bottom: 50px;
+    border: 1px transparent solid;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.home-control:hover{
+    background-color: aliceblue;
+}
+.home-control span b{
+    margin-left: 15px;
+    position: relative;
+    bottom: 5px;
+    color: black;
+}
+.home-control  a{
+    text-decoration: none;
+   
+}
+
+.search-control{
+    margin-bottom: 50px;
+    border: 1px transparent solid;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.search-control:hover{
+    background-color: aliceblue;
+}
+.search-control span {
+    margin-left: 15px;
+    position: relative;
+    bottom: 5px;
+    color: black;
+}
+.search-control  a{
+    text-decoration: none;
+   
+}
+.explore-control{
+    margin-bottom: 50px;
+    border: 1px transparent solid;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.explore-control:hover{
+    background-color: aliceblue;
+}
+.explore-control span{
+    margin-left: 15px;
+    position: relative;
+    bottom: 5px;
+    color: black;
+}
+.explore-control  a{
+    text-decoration: none;
+}
+.message-icon{
+    margin-bottom: 50px;
+    border: 1px transparent solid;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.message-icon:hover{
+    background-color: aliceblue;
+}
+.message-icon span{
+    margin-left: 15px;
+    position: relative;
+    bottom: 5px;
+    color: black;
+}
+.message-icon  a{
+    text-decoration: none;
+}
+.notification-control{
+    margin-bottom: 50px;
+    border: 1px transparent solid;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.notification-control:hover{
+    background-color: aliceblue;
+}
+.notification-control span{
+    margin-left: 15px;
+    position: relative;
+    bottom: 5px;
+    color: black;
+}
+.notification-control  a{
+    text-decoration: none;
+}
+.create-control{
+    margin-bottom: 50px;
+    border: 1px transparent solid;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.create-control:hover{
+    background-color: aliceblue;
+}
+.create-control span{
+    margin-left: 15px;
+    position: relative;
+    bottom: 5px;
+    color: black;
+}
+.create-control  a{
+    text-decoration: none;
+}
+.subheader-control{
+    border: 1px solid rgba(219,219,219,1);
+    width: 400px;
+    background-color: white;
+    display: flex;
+    padding: 16px;
+    border-radius: 6px;
+    height: 80px;
+    margin-left: 150px;
+}
+.headerimg1 img{
+    border-radius: 50%;
+    border: 2px solid none;
+    padding: 2px;
+    background-image: linear-gradient(to left, red ,yellow);
+}
+.headerimg2 img{
+    margin-left: 12px;
+    border-radius: 50%;
+    border: .2px solid none;
+    padding: 2px;
+    background-image: linear-gradient(to left, red ,yellow);
+}
+.headerimg1 p{
+    font-size: 15px;
+    padding-left: 10px;
+    margin-top: -3px;
+    font-weight: lighter;
+}
+.headerimg2 p{
+    font-size: 15px;
+    padding-left: 10px;
+    margin-top: -3px;
+    font-weight: lighter;
+}
+.header{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.firstpost-wrapper{
+    border: 1px solid rgba(219,219,219,1);
+    width: 430px;
+    background-color: white;
+    /* display: flex; */
+    padding-top:10px ;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-left: 352px;  
+}
+.uploadheader1{
+    border-bottom: 1px solid rgba(219,219,219,1);
+    width: 427px;
+    border-radius: 4px;
+}
+
+.writeuplogos1{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+}
+.noti-icon:hover{
+    color: blue;
+}
+.likedimg1 img{
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.generalwriteup1{
+    padding-left: 14px;
+    padding-right: 10px;
+}
+.generalwriteup1 a{
+    text-decoration: none;
+    color: black;
+}
+.more-control{
+    color: gray;
+}
+body{
+    display: flex;
+}
+.lastset{
+    margin-left: 15px;
+}
+.lastset a{
+    text-decoration: none;
+}
+.lastset1 img{
+    width: 56px;
+    border-radius: 50%;
+
+}
+.sublastset{
+    display: flex;
+    justify-content: space-between;
+}
+.switch-control a{
+    margin-left: 200px;
+}
+.lastset1 a{
+    margin-top: -80px;
+    margin-left: 10px;
+}
+.uploadheader1 img{
+    border-radius: 50px;
+    border: 1px solid none;
+    background-image: linear-gradient(to left, red ,yellow);
+    padding: 2px;
+
+}
+.uploadheader1 span b{
+    position: relative;
+    bottom: 20px;
+}
